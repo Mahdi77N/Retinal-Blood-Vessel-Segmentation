@@ -21,4 +21,4 @@ Stages of the work include:
 Just run runner.m file by using Matlab.
 
 ## Results
-The accuracy of the work is measured by Sensitivity, Specificity, and Accuracy. See the Resuls.xls file.
+The accuracy of the work is measured by Sensitivity, Specificity, and Accuracy. See the Results.xls file.
